@@ -1,0 +1,20 @@
+{
+  "name": "triage",
+  "version": "0.0.1",
+  "description": "Build custom rules for filesystem watcher",
+  "main": "./lib/triage.js",
+  "dependecies": {
+    "watch": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "async": "*",
+    "sinon": "*",
+    "wrench": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "england",
+  "license": "BSD"
+}
